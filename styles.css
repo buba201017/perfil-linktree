@@ -4,11 +4,12 @@
 }
 
 body{
-    width: 400px;
+    width: 900px;
     height: 900px;
     margin-left: 50px;
     /* border: 1px solid red; */
     padding: 40px;
+    display:flex;
 }
 
 section{
@@ -38,7 +39,7 @@ section{
     size:100px;
 }
 
-section h1{
+#nombre{
     text-align: center;
     color: white;
     font-size: 20px;
@@ -90,6 +91,12 @@ section h1{
 
 
 
+#botonCambio{
+    margin-left: 50px;
+    height: 100px;
+    width: 300px;
+    font-size: 20px;
 
+}
 
 
